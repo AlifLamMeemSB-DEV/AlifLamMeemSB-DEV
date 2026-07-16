@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AlifLamMeemSB-DEV/AlifLamMeemSB-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ﷽
 
-Here are some ideas to get you started:
+# AlifLamMeemSB-DEV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌿 أكاديمية متخصصة في تعليم القرآن الكريم، تجمع بين أصالة العلم وتقنيات العصر لتقديم تجربة تعليمية ميسرة واحترافية.
+
+---
+
+### *Building open-source tools and educational platforms to support Quran learning through modern technology.*
+
+</div>
+
+## 📖 عن الأكاديمية
+
+نسعى إلى توظيف التقنية في خدمة كتاب الله، من خلال تطوير منصات تعليمية، وأدوات رقمية، ومشاريع مفتوحة المصدر تساعد على تعلم القرآن الكريم وتعليمه ونشره بأساليب حديثة.
+
+## 🚀 What We Build
+
+- 📚 Quran Learning Platforms
+- 🌐 Web Applications
+- 🛠️ Educational Tools
+- 📖 Quran & Islamic Education Projects
+- 💡 Open Source Solutions
+
+---
+
+<div align="center">
+
+> **﴿ وَقُل رَّبِّ زِدْنِي عِلْمًا ﴾**  
+> *"My Lord, increase me in knowledge."*  
+> **— Surah Taha (20:114)**
+
+</div>
