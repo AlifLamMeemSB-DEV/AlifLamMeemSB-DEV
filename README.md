@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://aliflammeemsb-dev.github.io/AlifLamMeemSB-DEV/aliflammeemsb-logo.jpg" width="150" alt="AlifLamMeemSB-DEV Logo" style="border-reduis:50%;"/>
+<img src="https://aliflammeemsb-dev.github.io/AlifLamMeemSB-DEV/aliflammeemsb-logo.jpg"
+     width="150"
+     alt="AlifLamMeemSB-DEV Logo"
+     style="border-radius:50%;">>
 
-### ﷽
+# ﷽
 
 # AlifLamMeemSB-DEV
 
