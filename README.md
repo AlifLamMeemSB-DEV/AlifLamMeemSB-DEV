@@ -1,5 +1,4 @@
 <div align="center">
-<img src="YOUR_IMAGE_URL" width="150" alt="AlifLamMeemSB-DEV Logo" />
 # ﷽
 
 # AlifLamMeemSB-DEV
