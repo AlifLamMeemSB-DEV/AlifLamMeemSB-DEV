@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://aliflammeemsb-dev.github.io/AlifLamMeemSB-DEV/aliflammeemsb-logo.jpg"
+<img src="https://aliflammeemsb-dev.github.io/AlifLamMeemSB-DEV/aliflammeemsb-dev-logo.png"
      width="150"
-     alt="AlifLamMeemSB-DEV Logo"
-     style="border-radius:50%;">>
-
-# ﷽
+     alt="AlifLamMeemSB-DEV Logo">
+     
+<h1 align="center">﷽</h1>
 
 # AlifLamMeemSB-DEV
 
